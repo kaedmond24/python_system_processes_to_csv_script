@@ -1,12 +1,8 @@
-# Using the Python modules os Links to an external site., psutil to an external site., 
-# and CSVLinks to an external site., create a CSV file that lists all running processes 
-# and has columns for process ID #, name, executable path, CPU usage, and mem usage. 
-
 #############################################################################################
 # Created by Kevin Edmond.
 #
 # This script is used to extract a snapshot of the host system's running processes and 
-# outputs the data into a CSV file. The is formatted with the following column headers:
+# outputs the data into a CSV file. The file is formatted with the following column headers:
 # Process ID #, Name, Executable Path, CPU Usage, Mem Usage. The CSV file will be named 
 # 'running_processes.csv'.  
 #
